@@ -32,7 +32,7 @@ To build a machine learning model that accurately predicts fetal health using th
 ---
 
 ## 📂 Project Structure
-
+```text
 fetal-health-prediction
 │
 ├── dataset/
@@ -50,6 +50,7 @@ fetal-health-prediction
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ---
 
