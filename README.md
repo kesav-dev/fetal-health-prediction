@@ -12,13 +12,6 @@ To build a machine learning model that accurately predicts fetal health using th
 
 ---
 
-## 👨‍💻 Team Members
-
-- Kesavanath B
-- Barath A
-
----
-
 ## 🛠️ Technologies Used
 
 - Python
