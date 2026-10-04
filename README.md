@@ -389,6 +389,12 @@ Journal of Engineering Research, 2026.
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is developed for academic and research purposes only.
