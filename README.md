@@ -160,7 +160,7 @@ The models were evaluated using:
 
 ### 📊 Random Forest Feature Importance
 
-![Random Forest Feature Importance](07_images/random_forest_feature_importance.png)
+![Random Forest Feature Importance](05_images/random_forest_feature_importance.png)
 
 ### 🏆 Best Model
 
@@ -177,14 +177,14 @@ Random Forest feature importance was used to analyze the relative contribution o
 The feature importance results are saved in:
 
 ```text
-05_results/
+04_results/
 └── random_forest_feature_importance.csv
 ```
 
 The corresponding visualization is saved in:
 
 ```text
-07_images/
+05_images/
 └── random_forest_feature_importance.png
 ```
 
@@ -235,9 +235,7 @@ fetal-health-prediction/
 │   ├── 05_hyperparameter_tuning.ipynb
 │   └── 06_cdss.ipynb
 │
-├── 03_src/
-│
-├── 04_models/
+├── 03_models/
 │   ├── random_forest_model.pkl
 │   ├── gradient_boosting_model.pkl
 │   ├── svm_model.pkl
@@ -249,16 +247,16 @@ fetal-health-prediction/
 │   ├── weighted_soft_voting_model.pkl
 │   └── scaler.pkl
 │
-├── 05_results/
+├── 04_results/
 │   ├── model_evaluation_results.csv
 │   └── random_forest_feature_importance.csv
 │
-├── 06_docs/
-│
-├── 07_images/
+├── 05_images/
+│   └── github_banner.png
 │   └── random_forest_feature_importance.png
 │
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
@@ -329,7 +327,7 @@ Run the notebooks in the following order:
 ### Trained Models
 
 ```text
-04_models/
+03_models/
 ```
 
 Contains the trained machine learning models and the scaler used for preprocessing.
@@ -337,7 +335,7 @@ Contains the trained machine learning models and the scaler used for preprocessi
 ### Model Evaluation
 
 ```text
-05_results/model_evaluation_results.csv
+04_results/model_evaluation_results.csv
 ```
 
 Contains the evaluation results of the implemented models.
@@ -345,7 +343,7 @@ Contains the evaluation results of the implemented models.
 ### Feature Importance
 
 ```text
-05_results/random_forest_feature_importance.csv
+04_results/random_forest_feature_importance.csv
 ```
 
 Contains the Random Forest feature importance values.
@@ -353,7 +351,7 @@ Contains the Random Forest feature importance values.
 ### Feature Importance Visualization
 
 ```text
-07_images/random_forest_feature_importance.png
+05_images/random_forest_feature_importance.png
 ```
 
 ---
