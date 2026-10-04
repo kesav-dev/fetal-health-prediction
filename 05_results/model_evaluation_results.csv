@@ -1,0 +1,10 @@
+Model,Test Accuracy (%),Precision,Recall,F1-Score,CV Accuracy (%)
+Random Forest,97.16,0.97,0.97,0.97,93.61
+Weighted Soft Voting,97.16,0.97,0.97,0.97,95.15
+Bagging GB,97.16,0.97,0.97,0.97,95.03
+Gradient Boosting,96.69,0.97,0.97,0.97,95.27
+Equal Soft Voting,96.69,0.97,0.97,0.97,
+Bagging RF,95.74,0.96,0.96,0.96,93.37
+SVM,94.8,0.95,0.95,0.95,91.89
+Decision Tree,93.62,0.93,0.94,0.93,92.25
+KNN,92.43,0.92,0.92,0.92,91.3
