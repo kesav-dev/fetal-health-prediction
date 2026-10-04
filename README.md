@@ -1,3 +1,9 @@
+# Fetal Health Prediction Using Machine Learning
+
+<p align="center">
+  <img src="05_images/github_banner.png" alt="Fetal Health Prediction Using Machine Learning" width="100%">
+</p>
+
 ## 📖 Project Overview
 
 This project focuses on predicting fetal health conditions using Machine Learning techniques applied to Cardiotocography (CTG) data. The system classifies fetal health into three categories:
